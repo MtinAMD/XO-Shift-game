@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "board_size": 3,
+        "game_mode": "human-agent",
+        "player_x_type": "human",
+        "player_o_type": "agent2",
+        "winner": "O"
+    },
+    "moves": [
+        {
+            "player": "X",
+            "src_r": 2,
+            "src_c": 0,
+            "tgt_r": 0,
+            "tgt_c": 0
+        },
+        {
+            "player": "O",
+            "src_r": 0,
+            "src_c": 2,
+            "tgt_r": 2,
+            "tgt_c": 2
+        },
+        {
+            "player": "X",
+            "src_r": 2,
+            "src_c": 0,
+            "tgt_r": 2,
+            "tgt_c": 2
+        },
+        {
+            "player": "O",
+            "src_r": 0,
+            "src_c": 2,
+            "tgt_r": 2,
+            "tgt_c": 2
+        },
+        {
+            "player": "X",
+            "src_r": 2,
+            "src_c": 0,
+            "tgt_r": 0,
+            "tgt_c": 0
+        },
+        {
+            "player": "O",
+            "src_r": 2,
+            "src_c": 0,
+            "tgt_r": 2,
+            "tgt_c": 2
+        }
+    ]
+}

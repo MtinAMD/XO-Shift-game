@@ -1,0 +1,67 @@
+{
+    "metadata": {
+        "board_size": 5,
+        "game_mode": "agent-agent",
+        "player_x_type": "sample_agent",
+        "player_o_type": "your_agent",
+        "winner": "X"
+    },
+    "moves": [
+        {
+            "player": "X",
+            "src_r": 1,
+            "src_c": 0,
+            "tgt_r": 0,
+            "tgt_c": 0
+        },
+        {
+            "player": "X",
+            "src_r": 1,
+            "src_c": 4,
+            "tgt_r": 4,
+            "tgt_c": 4
+        },
+        {
+            "player": "X",
+            "src_r": 0,
+            "src_c": 4,
+            "tgt_r": 0,
+            "tgt_c": 0
+        },
+        {
+            "player": "X",
+            "src_r": 4,
+            "src_c": 0,
+            "tgt_r": 4,
+            "tgt_c": 4
+        },
+        {
+            "player": "X",
+            "src_r": 3,
+            "src_c": 4,
+            "tgt_r": 3,
+            "tgt_c": 0
+        },
+        {
+            "player": "X",
+            "src_r": 4,
+            "src_c": 2,
+            "tgt_r": 4,
+            "tgt_c": 0
+        },
+        {
+            "player": "X",
+            "src_r": 2,
+            "src_c": 0,
+            "tgt_r": 4,
+            "tgt_c": 0
+        },
+        {
+            "player": "X",
+            "src_r": 1,
+            "src_c": 4,
+            "tgt_r": 1,
+            "tgt_c": 0
+        }
+    ]
+}
