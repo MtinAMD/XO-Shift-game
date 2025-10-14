@@ -44,7 +44,7 @@ run main.py
 ## Usage
 
 You can play in 3 modes of 3×3, 4×4, or 5×5
-the default agent is the hardest one
+the default agent is the hardest one.
 if you want to play with an easier agent simply edit line 71 and 72 of main.py:
 ```bash
 agent1_path_config = "hard_agent.py"
