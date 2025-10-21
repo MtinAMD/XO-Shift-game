@@ -9,7 +9,8 @@ A new version of traditional Tic-Tac-Toe (XO) game for Windows, built in Python.
 
 # Game Description
 
-The game is played on a 3×3, 4×4, or 5×5 grid. In this game, the ultimate goal, similar to Tic-Tac-Toe (XO), is to form a row, column, or diagonal with your own pieces. However, in this version of the game, the method of placing pieces on the board is slightly different.
+The game is played on a 3×3, 4×4, or 5×5 grid.
+In this game, the ultimate goal, similar to Tic-Tac-Toe (XO), is to form a row, column, or diagonal with your own pieces. However, in this version of the game, the method of placing pieces on the board is slightly different.
 In each turn, you must select two valid cells on the board and perform a shift operation based on the two selected cells.
 To select the first cell: If there is an empty cell on the perimeter of the board, you are required to choose one of them. If there are no empty cells on the perimeter, you must choose from among the cells on the perimeter that are occupied by your own pieces.
 To select the second cell: You must choose a cell that is at the beginning or end of the same row or column as the first cell you selected.
