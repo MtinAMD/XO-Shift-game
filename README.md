@@ -22,7 +22,7 @@ The number of moves that can occur in a game is limited. If the number of moves 
 
 ## Prerequisites 🛠️
 
-Make sure you have **Python 3.x** installed on your system.  
+Make sure you have **Python 3.x** installed on your system
 You can download it here: [https://www.python.org/downloads/](https://www.python.org/downloads/)
 
 then instal pygame :
