@@ -1,6 +1,6 @@
 # XO-Shift Game ❌⭕️
 
-A new version of traditional Tic-Tac-Toe (XO) game for Windows, built in Python.
+A new version of the traditional Tic-Tac-Toe (XO) game for Windows, built in Python.
 - Play against a friend locally on your computer
 - Play against two different AI agents
 - Let the agents play with each other and see how they play
